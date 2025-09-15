@@ -6,8 +6,8 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/akshat20000"><img src="https://img.shields.io/github/followers/akshat20000?label=GitHub&style=social" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin&style=social" /></a>
-  <a href="mailto:akshat20000@gmail.com"><img src="https://img.shields.io/badge/Email-akshat20000%40gmail.com-red?logo=gmail&style=social" /></a>
+  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin&style=social" /></a>
+  <a href="mailto:akshatprashar2710@gmail.com"><img src="https://img.shields.io/badge/Email-akshat20000%40gmail.com-red?logo=gmail&style=social" /></a>
   <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" /></a>
 </p>
 
