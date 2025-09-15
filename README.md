@@ -1,46 +1,115 @@
-# Hi there, I'm Akshat! 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Akshat+%F0%9F%91%8B;Student+%7C+Aspiring+Full-Stack+Developer;MERN+Stack+%E2%9C%A8+C%2B%2B+%E2%9C%A8+JavaScript;Open+Source+Enthusiast+%F0%9F%A7%AA+;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-🎓 **Student | Aspiring Developer**
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/akshat20000"><img src="https://img.shields.io/github/followers/akshat20000?label=GitHub&style=social" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin&style=social" /></a>
+  <a href="mailto:akshat20000@gmail.com"><img src="https://img.shields.io/badge/Email-akshat20000%40gmail.com-red?logo=gmail&style=social" /></a>
+  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate student exploring the world of software development, with a keen interest in building web apps and solving real-world problems. I love learning new technologies and collaborating on exciting projects.
+✨ I'm **Akshat**, a creative & passionate student developer, always eager to turn ideas into impactful digital experiences.<br>
+🛠️ I specialize in building full-stack web apps, automating tasks, and solving real-world problems.<br>
+🚀 On a lifelong mission to learn, build, and collaborate.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Toolbox
 
-- **MERN Stack** (MongoDB | Express | React | Node.js)
-- **C++**
-- **JavaScript (JS)**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,html,css,git,figma" alt="Tech Stack" />
+</p>
+
+- **Languages:** JavaScript, C++, Python
+- **Frameworks:** ReactJS, Express, Node.js, Bootstrap
+- **Databases:** MongoDB, MySQL (basics)
+- **Tools:** Git, VS Code, Figma, Postman
 - <sub>*...and always learning more!* 🚀</sub>
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Stats
 
-### [college](https://github.com/akshat20000/college)
-A project showcasing my skills and experience as a student developer.  
-*Check it out for a glimpse into my academic and coding journey!*
-
-### [fundflow](https://github.com/akshat20000/fundflow)
-A project focused on managing and tracking funds, demonstrating my backend and frontend expertise.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat20000&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat20000&layout=compact&hide=css,html&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## ✨ Featured Projects
 
-- [GitHub](https://github.com/akshat20000)
-- [LinkedIn](#) <!-- Add your LinkedIn link here when ready! -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/akshat20000/Attendance-Portal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat20000&repo=Attendance-Portal&theme=radical" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akshat20000/FundFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat20000&repo=FundFlow&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/akshat20000/Knight-Runner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat20000&repo=Knight-Runner&theme=radical" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akshat20000/forage-midas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat20000&repo=forage-midas&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!--
-*Fun facts, hobbies, or more about you can go here!*
--->
+## 🏆 Achievements & Highlights
 
-<!--
-Badges, stats, or cool widgets? Add them below!
--->
+- 🏅 Participated in multiple hackathons & coding contests, always reaching for the top!
+- 🌱 Consistently learning new frameworks, libraries, and programming paradigms.
+- 🤝 Open Source Contributor – always happy to help and collaborate.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/akshat20000"><img src="https://img.shields.io/badge/GitHub-akshat20000-181717?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:akshat20000@gmail.com"><img src="https://img.shields.io/badge/Email-akshat20000%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-4B0082?style=for-the-badge&logo=read-the-docs" /></a>
+</p>
+
+---
+
+<!-- Fun facts or more personal stuff -->
+<details>
+  <summary>🎲 Fun Facts & More About Me</summary>
+  <ul>
+    <li>🎮 Gamer at heart – love indie platformers and competitive games.</li>
+    <li>📷 Enjoy capturing moments in code & photography.</li>
+    <li>🧩 Puzzle solver, tech tinkerer, and meme enthusiast.</li>
+    <li>🐱 Cat person!</li>
+  </ul>
+</details>
+
+<!-- Cool widgets/badges -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=akshat20000&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
