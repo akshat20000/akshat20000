@@ -38,8 +38,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api
-    username=akshat20000&show_icons=true&theme=radical" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat20000&show_icons=true&theme=radical" />
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat20000&layout=compact&hide=css,html&theme=radical" alt="Top Languages"/>
 </p>
