@@ -38,7 +38,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat20000&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api
+    username=akshat20000&show_icons=true&theme=radical" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat20000&layout=compact&hide=css,html&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -107,7 +109,7 @@
 
 <!-- Cool widgets/badges -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshat20000&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat20000&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
