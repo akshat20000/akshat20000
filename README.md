@@ -1,13 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Akshat+%F0%9F%91%8B;Student+%7C+Aspiring+Full-Stack+Developer;MERN+Stack+%E2%9C%A8+C%2B%2B+%E2%9C%A8+JavaScript;Open+Source+Enthusiast+%F0%9F%A7%AA+;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/akshat20000"><img src="https://img.shields.io/github/followers/akshat20000?label=GitHub&style=social" /></a>
-  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin&style=social" /></a>
-  <a href="mailto:akshatprashar2710@gmail.com"><img src="https://img.shields.io/badge/Email-akshat20000%40gmail.com-red?logo=gmail&style=social" /></a>
+  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/"></a>
   <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" /></a>
 </p>
 
@@ -89,9 +83,8 @@
 
 <p align="center">
   <a href="https://github.com/akshat20000"><img src="https://img.shields.io/badge/GitHub-akshat20000-181717?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:akshat20000@gmail.com"><img src="https://img.shields.io/badge/Email-akshat20000%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-4B0082?style=for-the-badge&logo=read-the-docs" /></a>
+  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/"><img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin" /></a>
+  <a href="resume.pdf"></a>
 </p>
 
 ---
