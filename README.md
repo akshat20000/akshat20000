@@ -1,8 +1,14 @@
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/akshat20000"><img src="https://img.shields.io/github/followers/akshat20000?label=GitHub&style=social" /></a>
-  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/"></a>
-  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" /></a>
+  <a href="https://github.com/akshat20000">
+    <img src="https://img.shields.io/github/followers/akshat20000?label=GitHub&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
+  </a>
+  <a href="resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" />
+  </a>
 </p>
 
 ---
@@ -21,10 +27,10 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,html,css,git,figma" alt="Tech Stack" />
 </p>
 
-- **Languages:** JavaScript, C++, Python
-- **Frameworks:** ReactJS, Express, Node.js, Bootstrap
-- **Databases:** MongoDB, MySQL (basics)
-- **Tools:** Git, VS Code, Figma, Postman
+- **Languages:** JavaScript, C++, Python  
+- **Frameworks:** ReactJS, Express, Node.js, Bootstrap  
+- **Databases:** MongoDB, MySQL (basics)  
+- **Tools:** Git, VS Code, Figma, Postman  
 - <sub>*...and always learning more!* 🚀</sub>
 
 ---
@@ -33,9 +39,7 @@
 
 <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat20000&show_icons=true&theme=radical" />
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat20000&layout=compact&hide=css,html&theme=radical" alt="Top Languages"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat20000&layout=compact&hide=css,html&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -73,18 +77,24 @@
 
 ## 🏆 Achievements & Highlights
 
-- 🏅 Participated in multiple hackathons & coding contests, always reaching for the top!
-- 🌱 Consistently learning new frameworks, libraries, and programming paradigms.
-- 🤝 Open Source Contributor – always happy to help and collaborate.
+- 🏅 Participated in multiple hackathons & coding contests, always reaching for the top!  
+- 🌱 Consistently learning new frameworks, libraries, and programming paradigms.  
+- 🤝 Open Source Contributor – always happy to help and collaborate.  
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/akshat20000"><img src="https://img.shields.io/badge/GitHub-akshat20000-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/"><img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin" /></a>
-  <a href="resume.pdf"></a>
+  <a href="https://github.com/akshat20000">
+    <img src="https://img.shields.io/badge/GitHub-akshat20000-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-blueviolet?style=for-the-badge&logo=read-the-docs" />
+  </a>
 </p>
 
 ---
