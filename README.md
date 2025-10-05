@@ -3,8 +3,8 @@
   <a href="https://github.com/akshat20000">
     <img src="https://img.shields.io/github/followers/akshat20000?label=GitHub&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
+  <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=akshat-prashar-30684b2ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" />
@@ -89,7 +89,7 @@
   <a href="https://github.com/akshat20000">
     <img src="https://img.shields.io/badge/GitHub-akshat20000-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab/">
+  <a href=" www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=akshat-prashar-30684b2ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="resume.pdf">
