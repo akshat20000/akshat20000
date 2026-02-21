@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/akshat-prashar-30684b2ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="resume.pdf">
+  <a href="Aspiring_SE.pdf">
     <img src="https://img.shields.io/badge/Resume-View-blueviolet?logo=read-the-docs" />
   </a>
 </p>
